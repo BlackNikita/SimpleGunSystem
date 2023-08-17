@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/AnimStarterPack/Ue4ASP_Character.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/ThirdPerson/Input/Actions/IA_ADS.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/ThirdPerson/Input/Actions/IA_Fire.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/ThirdPerson/Input/Actions/IA_SwitchGun.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/ThirdPerson/Input/Actions/IA_Interact.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/InteractionInterface/InteractionInterface.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/Items/BP_Item.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/InteractionInterface/InteractionWidget.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/Items/Guns/BP_Gun.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/Items/Guns/BP_M4.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/Items/Guns/BP_AK47.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/Items/Guns/BP_VAL.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/LZ/495A1NRUSG48PWMXMRO67E.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/PR/9Z9GSLQIAQLD1UIOVLXW4G.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/RZ/2QWOKUT2L32831FIFKZYEH.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/Items/Guns/EGunSlot.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/Items/Guns/EGunState.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/AnimStarterPack/BS_JogIronsights.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/AnimStarterPack/BS_CrouchWalkIronsights.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/AnimStarterPack/Aimspace/Aim_Space_Ironsights.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/AnimStarterPack/Aim_Space_Ironsights.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/AnimStarterPack/Aimspace/AimspaceCenter.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/AnimStarterPack/Aimspace/AimspaceUp.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/AnimStarterPack/Aimspace/AimspaceDown.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/AnimStarterPack/Aimspace/AimspaceIronsights.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/Bullet/BP_Bullet.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/Bullet/BP_Muzzleflash.uasset",
+				"D:/ProjectsUE/WeaponSystemTutorial/Content/AnimStarterPack/AM_Fire.uasset"
+			]
+		}
+	]
+}
